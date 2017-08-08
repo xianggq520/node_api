@@ -1,0 +1,1 @@
+@node "../lib/daemon.js" "../conf/config.json" "../lib/server.js"%*
